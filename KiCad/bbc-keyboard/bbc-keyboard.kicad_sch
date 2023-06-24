@@ -768,6 +768,12 @@
     (path "/6149d2d9-e610-4c07-b8fa-fc11a7f5479e/6a6d7b8b-d246-4418-8cd9-65ca8e377644"
       (reference "IC1") (unit 1) (value "74LS161") (footprint "")
     )
+    (path "/6149d2d9-e610-4c07-b8fa-fc11a7f5479e/d4cc5c9d-4914-4245-a9df-14c5b07c2d57"
+      (reference "IC2") (unit 1) (value "74251") (footprint "")
+    )
+    (path "/6149d2d9-e610-4c07-b8fa-fc11a7f5479e/90787224-6ca3-4c9c-aa33-b356b1ade5db"
+      (reference "IC3") (unit 1) (value "74145") (footprint "")
+    )
     (path "/5414043a-ed38-4cec-828b-be5302069545"
       (reference "LD1") (unit 1) (value "SHIFT") (footprint "")
     )
