@@ -738,16 +738,35 @@
     (pin "1" (uuid 7eb3ef9f-b6e1-4094-9847-182c1a2a4ff3))
   )
 
+  (sheet (at 124.46 86.36) (size 36.83 26.67) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid) (color 0 0 0 0))
+    (fill (color 0 0 0 0.0000))
+    (uuid 6149d2d9-e610-4c07-b8fa-fc11a7f5479e)
+    (property "Sheet name" "muxdemux" (id 0) (at 124.46 85.6484 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheet file" "muxdemux.kicad_sch" (id 1) (at 124.46 113.6146 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+  )
+
   (sheet_instances
     (path "/" (page "1"))
+    (path "/6149d2d9-e610-4c07-b8fa-fc11a7f5479e" (page "2"))
   )
 
   (symbol_instances
+    (path "/6149d2d9-e610-4c07-b8fa-fc11a7f5479e/392bb0ad-f5cf-4ed5-910c-8b55cd3cf9a6"
+      (reference "#PWR?") (unit 1) (value "VCC") (footprint "")
+    )
     (path "/da3bbfd5-7f58-455d-a0a3-e46770be8164"
       (reference "#PWR?") (unit 1) (value "VCC") (footprint "")
     )
     (path "/e9507c96-54e5-4e63-9848-71e5802ba619"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/6149d2d9-e610-4c07-b8fa-fc11a7f5479e/6a6d7b8b-d246-4418-8cd9-65ca8e377644"
+      (reference "IC1") (unit 1) (value "74LS161") (footprint "")
     )
     (path "/5414043a-ed38-4cec-828b-be5302069545"
       (reference "LD1") (unit 1) (value "SHIFT") (footprint "")
