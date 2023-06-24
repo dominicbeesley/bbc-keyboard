@@ -1,6 +1,6 @@
 (kicad_sch (version 20211123) (generator eeschema)
 
-  (uuid f3e0f886-1113-41a8-8f87-ec2eb96c9888)
+  (uuid 87e9cd9c-b56b-4feb-a150-904ae73c369e)
 
   (paper "A4")
 
@@ -1149,7 +1149,7 @@
   (symbol (lib_id "power:VCC") (at 78.74 38.1 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 392bb0ad-f5cf-4ed5-910c-8b55cd3cf9a6)
-    (property "Reference" "#PWR?" (id 0) (at 78.74 41.91 0)
+    (property "Reference" "#PWR03" (id 0) (at 78.74 41.91 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "VCC" (id 1) (at 78.74 33.02 0))
@@ -1194,7 +1194,7 @@
   (symbol (lib_id "power:VCC") (at 99.06 144.78 90) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 8d3c6ef2-c1f7-4088-b923-4dedd5c2c944)
-    (property "Reference" "#PWR?" (id 0) (at 102.87 144.78 0)
+    (property "Reference" "#PWR04" (id 0) (at 102.87 144.78 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "VCC" (id 1) (at 95.25 144.7799 90)
