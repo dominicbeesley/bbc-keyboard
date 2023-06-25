@@ -1036,7 +1036,7 @@
     (property "Value" "SHIFT" (id 1) (at 69.85 73.66 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (id 2) (at 71.12 73.66 0)
+    (property "Footprint" "LED_THT:LED_D5.0mm" (id 2) (at 71.12 73.66 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 71.12 73.66 0)
@@ -1074,7 +1074,7 @@
     (property "Value" "CAPS" (id 1) (at 78.74 73.66 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (id 2) (at 80.01 73.66 0)
+    (property "Footprint" "LED_THT:LED_D5.0mm" (id 2) (at 80.01 73.66 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 80.01 73.66 0)
@@ -1139,7 +1139,7 @@
     (property "Value" "CAS" (id 1) (at 87.63 73.66 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (id 2) (at 88.9 73.66 0)
+    (property "Footprint" "LED_THT:LED_D5.0mm" (id 2) (at 88.9 73.66 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 88.9 73.66 0)
@@ -1450,13 +1450,13 @@
       (reference "IC4") (unit 1) (value "74LS30") (footprint "")
     )
     (path "/5414043a-ed38-4cec-828b-be5302069545"
-      (reference "LD1") (unit 1) (value "SHIFT") (footprint "")
+      (reference "LD1") (unit 1) (value "SHIFT") (footprint "LED_THT:LED_D5.0mm")
     )
     (path "/6e00e269-9889-489b-868d-4b59dc264727"
-      (reference "LD2") (unit 1) (value "CAPS") (footprint "")
+      (reference "LD2") (unit 1) (value "CAPS") (footprint "LED_THT:LED_D5.0mm")
     )
     (path "/9c0a84d6-0b56-4721-ac67-8bdfe3f07465"
-      (reference "LD3") (unit 1) (value "CAS") (footprint "")
+      (reference "LD3") (unit 1) (value "CAS") (footprint "LED_THT:LED_D5.0mm")
     )
     (path "/9d392708-6605-40d8-adaf-84e4e23a6904"
       (reference "PL1") (unit 1) (value "Conn_01x17") (footprint "")
