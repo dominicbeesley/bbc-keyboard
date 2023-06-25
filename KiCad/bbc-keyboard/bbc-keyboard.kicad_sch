@@ -1393,7 +1393,7 @@
       (reference "#PWR0109") (unit 1) (value "VCC") (footprint "")
     )
     (path "/5a6afae0-4df7-4603-b305-1b33d5f2e402/7eea0b84-bfae-436e-8694-1a79a65d6c74"
-      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+      (reference "#PWR0110") (unit 1) (value "GND") (footprint "")
     )
     (path "/1999562b-3aa3-4942-8f9a-0c18378bf41e"
       (reference "C1") (unit 1) (value "100n") (footprint "")
@@ -1696,7 +1696,7 @@
       (reference "SW74") (unit 1) (value "SW_DIP_x08") (footprint "")
     )
     (path "/5a6afae0-4df7-4603-b305-1b33d5f2e402/53f914f1-d751-4149-8cd9-30532b860fe7"
-      (reference "SW?") (unit 1) (value "break") (footprint "")
+      (reference "SW75") (unit 1) (value "break") (footprint "")
     )
   )
 )
