@@ -1408,34 +1408,34 @@
       (reference "C4") (unit 1) (value "22u") (footprint "Capacitor_THT:CP_Radial_D5.0mm_P2.00mm")
     )
     (path "/5a6afae0-4df7-4603-b305-1b33d5f2e402/68a28416-7f00-45ff-be2b-fbdcc4139499"
-      (reference "D1") (unit 1) (value "D") (footprint "Diode_THT:D_DO-34_SOD68_P12.70mm_Horizontal")
+      (reference "D1") (unit 1) (value "D") (footprint "Diode_THT:D_DO-34_SOD68_P10.16mm_Horizontal")
     )
     (path "/5a6afae0-4df7-4603-b305-1b33d5f2e402/bebc2e67-a928-4b74-8640-0b9a8a676dc5"
-      (reference "D2") (unit 1) (value "D") (footprint "Diode_THT:D_DO-34_SOD68_P12.70mm_Horizontal")
+      (reference "D2") (unit 1) (value "D") (footprint "Diode_THT:D_DO-34_SOD68_P10.16mm_Horizontal")
     )
     (path "/5a6afae0-4df7-4603-b305-1b33d5f2e402/5070532a-1ff5-4ac7-83d7-db0cf41aa0a7"
-      (reference "D3") (unit 1) (value "D") (footprint "Diode_THT:D_DO-34_SOD68_P12.70mm_Horizontal")
+      (reference "D3") (unit 1) (value "D") (footprint "Diode_THT:D_DO-34_SOD68_P10.16mm_Horizontal")
     )
     (path "/5a6afae0-4df7-4603-b305-1b33d5f2e402/f6586281-8c8f-460c-8022-faa0539d24f4"
-      (reference "D4") (unit 1) (value "D") (footprint "Diode_THT:D_DO-34_SOD68_P12.70mm_Horizontal")
+      (reference "D4") (unit 1) (value "D") (footprint "Diode_THT:D_DO-34_SOD68_P10.16mm_Horizontal")
     )
     (path "/5a6afae0-4df7-4603-b305-1b33d5f2e402/16e3d287-2e4c-40c3-94b6-147dd1141066"
-      (reference "D5") (unit 1) (value "D") (footprint "Diode_THT:D_DO-34_SOD68_P12.70mm_Horizontal")
+      (reference "D5") (unit 1) (value "D") (footprint "Diode_THT:D_DO-34_SOD68_P10.16mm_Horizontal")
     )
     (path "/5a6afae0-4df7-4603-b305-1b33d5f2e402/c96a6a1d-251a-42bc-b229-de6d2685451d"
-      (reference "D6") (unit 1) (value "D") (footprint "Diode_THT:D_DO-34_SOD68_P12.70mm_Horizontal")
+      (reference "D6") (unit 1) (value "D") (footprint "Diode_THT:D_DO-34_SOD68_P10.16mm_Horizontal")
     )
     (path "/5a6afae0-4df7-4603-b305-1b33d5f2e402/4db2fdc9-008d-47a1-aaed-a73ddae3d93b"
-      (reference "D7") (unit 1) (value "D") (footprint "Diode_THT:D_DO-34_SOD68_P12.70mm_Horizontal")
+      (reference "D7") (unit 1) (value "D") (footprint "Diode_THT:D_DO-34_SOD68_P10.16mm_Horizontal")
     )
     (path "/5a6afae0-4df7-4603-b305-1b33d5f2e402/c59eff60-8aa6-4cc2-ae38-165eecb9bee1"
-      (reference "D8") (unit 1) (value "D") (footprint "Diode_THT:D_DO-34_SOD68_P12.70mm_Horizontal")
+      (reference "D8") (unit 1) (value "D") (footprint "Diode_THT:D_DO-34_SOD68_P10.16mm_Horizontal")
     )
     (path "/5a6afae0-4df7-4603-b305-1b33d5f2e402/72d29650-3584-4417-abb0-b973d06f1e74"
-      (reference "D9") (unit 1) (value "D") (footprint "Diode_THT:D_DO-34_SOD68_P12.70mm_Horizontal")
+      (reference "D9") (unit 1) (value "D") (footprint "Diode_THT:D_DO-34_SOD68_P10.16mm_Horizontal")
     )
     (path "/5a6afae0-4df7-4603-b305-1b33d5f2e402/2d9d1e39-49bf-41b3-9a78-906601dd003f"
-      (reference "D10") (unit 1) (value "D") (footprint "Diode_THT:D_DO-34_SOD68_P12.70mm_Horizontal")
+      (reference "D10") (unit 1) (value "D") (footprint "Diode_THT:D_DO-34_SOD68_P10.16mm_Horizontal")
     )
     (path "/6149d2d9-e610-4c07-b8fa-fc11a7f5479e/9ec18c21-5abd-48d2-93f1-408c3c8d1a4f"
       (reference "IC1") (unit 1) (value "74LS161") (footprint "Package_DIP:DIP-16_W7.62mm")
