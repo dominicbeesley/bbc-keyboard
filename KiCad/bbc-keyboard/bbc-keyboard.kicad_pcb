@@ -46,6 +46,8 @@
 
   (setup
     (pad_to_mask_clearance 0)
+    (aux_axis_origin 52.3875 228.6)
+    (grid_origin 52.3875 228.6)
     (pcbplotparams
       (layerselection 0x00010fc_ffffffff)
       (disableapertmacros false)
@@ -4235,5 +4237,16 @@
       (rotate (xyz 0 0 0))
     )
   )
+
+  (gr_line (start 349.5675 226.06) (end 349.5675 245.11) (layer "Dwgs.User") (width 0.15) (tstamp 02b48418-4ce4-411f-8bf3-220969ba733d))
+  (gr_line (start 293.6875 264.16) (end 39.6875 264.16) (layer "Dwgs.User") (width 0.15) (tstamp 05379388-28a8-446e-a428-58e4a75b4be5))
+  (gr_line (start 349.5675 245.11) (end 293.6875 245.11) (layer "Dwgs.User") (width 0.15) (tstamp 0aa5d6a8-80db-4c33-b8d5-c68a1b7c0446))
+  (gr_line (start 39.6875 158.75) (end 77.7875 158.75) (layer "Dwgs.User") (width 0.15) (tstamp 128044f7-7cf2-43a1-abcb-40fe99097e2e))
+  (gr_line (start 77.7875 158.75) (end 77.7875 139.7) (layer "Dwgs.User") (width 0.15) (tstamp 18597b15-1dd1-4184-91b8-164094962aca))
+  (gr_line (start 364.8075 226.06) (end 349.5675 226.06) (layer "Dwgs.User") (width 0.15) (tstamp 1fb6ba87-59bd-48b4-ac1d-449145497a0c))
+  (gr_line (start 293.6875 245.11) (end 293.6875 264.16) (layer "Dwgs.User") (width 0.15) (tstamp 54134cb1-59c5-4e8e-b97a-b2fe1a5a11fc))
+  (gr_line (start 77.7875 139.7) (end 364.8075 139.7) (layer "Dwgs.User") (width 0.15) (tstamp 721ffe38-a74a-4844-995f-b64029cb5230))
+  (gr_line (start 364.8075 139.7) (end 364.8075 226.06) (layer "Dwgs.User") (width 0.15) (tstamp ce91cc84-52e8-4d1d-a3d5-e1692e786792))
+  (gr_line (start 39.6875 264.16) (end 39.6875 158.75) (layer "Dwgs.User") (width 0.15) (tstamp e8fd1a82-a445-404a-96c7-1605c50be256))
 
 )
