@@ -46,8 +46,8 @@
 
   (setup
     (pad_to_mask_clearance 0)
-    (aux_axis_origin 52.3875 228.6)
-    (grid_origin 52.3875 228.6)
+    (aux_axis_origin 71.4375 196.85)
+    (grid_origin 71.4375 196.85)
     (pcbplotparams
       (layerselection 0x00010fc_ffffffff)
       (disableapertmacros false)
@@ -110,7 +110,7 @@
 
   (footprint "Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u" (layer "F.Cu")
     (tedit 0) (tstamp 060faf66-f7b3-4b75-8b68-379339eef2db)
-    (at 85.725 190.5)
+    (at 104.775 158.75)
     (descr "Cherry MX keyswitch PCB Mount Keycap 1.00u")
     (tags "Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u")
     (property "Sheetfile" "keymatrix.kicad_sch")
@@ -165,7 +165,7 @@
 
   (footprint "Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u" (layer "F.Cu")
     (tedit 0) (tstamp 06e5795c-98fd-47f6-96ba-2e4feec7fb63)
-    (at 238.125 190.5)
+    (at 257.175 158.75)
     (descr "Cherry MX keyswitch PCB Mount Keycap 1.00u")
     (tags "Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u")
     (property "Sheetfile" "keymatrix.kicad_sch")
@@ -220,7 +220,7 @@
 
   (footprint "Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u" (layer "F.Cu")
     (tedit 0) (tstamp 0deb690a-9345-4079-8701-e4665ddaf15b)
-    (at 138.1125 228.6)
+    (at 157.1625 196.85)
     (descr "Cherry MX keyswitch PCB Mount Keycap 1.00u")
     (tags "Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u")
     (property "Sheetfile" "keymatrix.kicad_sch")
@@ -275,7 +275,7 @@
 
   (footprint "Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u" (layer "F.Cu")
     (tedit 0) (tstamp 127c0be7-695a-4200-aa47-9f1db5007624)
-    (at 200.025 190.5)
+    (at 219.075 158.75)
     (descr "Cherry MX keyswitch PCB Mount Keycap 1.00u")
     (tags "Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u")
     (property "Sheetfile" "keymatrix.kicad_sch")
@@ -330,7 +330,7 @@
 
   (footprint "Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u" (layer "F.Cu")
     (tedit 0) (tstamp 1285dc80-3445-471e-bfe3-c18a7d593654)
-    (at 176.2125 152.4)
+    (at 195.2625 120.65)
     (descr "Cherry MX keyswitch PCB Mount Keycap 1.00u")
     (tags "Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u")
     (property "Sheetfile" "keymatrix.kicad_sch")
@@ -385,7 +385,7 @@
 
   (footprint "Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u" (layer "F.Cu")
     (tedit 0) (tstamp 1792b8a8-e745-4f61-8f78-1b83016a51ed)
-    (at 290.5125 152.4)
+    (at 309.5625 120.65)
     (descr "Cherry MX keyswitch PCB Mount Keycap 1.00u")
     (tags "Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u")
     (property "Sheetfile" "keymatrix.kicad_sch")
@@ -440,7 +440,7 @@
 
   (footprint "Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u" (layer "F.Cu")
     (tedit 0) (tstamp 1afb2ba6-d339-4e74-9031-2d69cf0fc2c6)
-    (at 119.0625 228.6)
+    (at 138.1125 196.85)
     (descr "Cherry MX keyswitch PCB Mount Keycap 1.00u")
     (tags "Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u")
     (property "Sheetfile" "keymatrix.kicad_sch")
@@ -495,7 +495,7 @@
 
   (footprint "Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u" (layer "F.Cu")
     (tedit 0) (tstamp 1eb9e794-0d0f-42ac-b04c-120ef1af2fc2)
-    (at 52.3875 209.55)
+    (at 71.4375 177.8)
     (descr "Cherry MX keyswitch PCB Mount Keycap 1.00u")
     (tags "Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u")
     (property "Sheetfile" "keymatrix.kicad_sch")
@@ -550,7 +550,7 @@
 
   (footprint "Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_6.50u" (layer "F.Cu")
     (tedit 0) (tstamp 21619ef5-6c8b-4988-bf5c-cb8f099ba9f5)
-    (at 185.7375 247.65)
+    (at 204.7875 215.9)
     (descr "Cherry MX keyswitch PCB Mount Keycap 6.50u")
     (tags "Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 6.50u")
     (property "Sheetfile" "keymatrix.kicad_sch")
@@ -605,7 +605,7 @@
 
   (footprint "Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.50u" (layer "F.Cu")
     (tedit 0) (tstamp 280f58d1-b513-4d52-8db5-12838114f85a)
-    (at 61.9125 190.5)
+    (at 80.9625 158.75)
     (descr "Cherry MX keyswitch PCB Mount Keycap 1.50u")
     (tags "Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.50u")
     (property "Sheetfile" "keymatrix.kicad_sch")
@@ -660,7 +660,7 @@
 
   (footprint "Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u" (layer "F.Cu")
     (tedit 0) (tstamp 31b417ce-9111-496d-8c10-79dd4fcb2036)
-    (at 242.8875 209.55)
+    (at 261.9375 177.8)
     (descr "Cherry MX keyswitch PCB Mount Keycap 1.00u")
     (tags "Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u")
     (property "Sheetfile" "keymatrix.kicad_sch")
@@ -715,7 +715,7 @@
 
   (footprint "Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u" (layer "F.Cu")
     (tedit 0) (tstamp 36035786-6fa2-4272-b4e4-d96d7696b85a)
-    (at 214.3125 228.6)
+    (at 233.3625 196.85)
     (descr "Cherry MX keyswitch PCB Mount Keycap 1.00u")
     (tags "Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u")
     (property "Sheetfile" "keymatrix.kicad_sch")
@@ -770,7 +770,7 @@
 
   (footprint "Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u" (layer "F.Cu")
     (tedit 0) (tstamp 364ba53b-a059-486f-b770-d814704658ce)
-    (at 90.4875 209.55)
+    (at 109.5375 177.8)
     (descr "Cherry MX keyswitch PCB Mount Keycap 1.00u")
     (tags "Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u")
     (property "Sheetfile" "keymatrix.kicad_sch")
@@ -825,7 +825,7 @@
 
   (footprint "Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u" (layer "F.Cu")
     (tedit 0) (tstamp 3672648e-9e54-4b74-ae7c-83fa678f3aa3)
-    (at 204.7875 209.55)
+    (at 223.8375 177.8)
     (descr "Cherry MX keyswitch PCB Mount Keycap 1.00u")
     (tags "Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u")
     (property "Sheetfile" "keymatrix.kicad_sch")
@@ -880,7 +880,7 @@
 
   (footprint "Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u" (layer "F.Cu")
     (tedit 0) (tstamp 37be9f2f-334a-4de7-99b0-309015f271cb)
-    (at 171.45 171.45)
+    (at 190.5 139.7)
     (descr "Cherry MX keyswitch PCB Mount Keycap 1.00u")
     (tags "Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u")
     (property "Sheetfile" "keymatrix.kicad_sch")
@@ -935,7 +935,7 @@
 
   (footprint "Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u" (layer "F.Cu")
     (tedit 0) (tstamp 3ac9d22f-3c16-4f6d-944e-dcb2a4984f99)
-    (at 280.9875 209.55)
+    (at 300.0375 177.8)
     (descr "Cherry MX keyswitch PCB Mount Keycap 1.00u")
     (tags "Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u")
     (property "Sheetfile" "keymatrix.kicad_sch")
@@ -990,7 +990,7 @@
 
   (footprint "Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u" (layer "F.Cu")
     (tedit 0) (tstamp 3be7c435-a691-430f-9503-ef4ec316cc94)
-    (at 195.2625 152.4)
+    (at 214.3125 120.65)
     (descr "Cherry MX keyswitch PCB Mount Keycap 1.00u")
     (tags "Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u")
     (property "Sheetfile" "keymatrix.kicad_sch")
@@ -1045,7 +1045,7 @@
 
   (footprint "Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u" (layer "F.Cu")
     (tedit 0) (tstamp 3c2dc15f-8bde-4dbe-9b6c-303b9f4a691b)
-    (at 266.7 171.45)
+    (at 285.75 139.7)
     (descr "Cherry MX keyswitch PCB Mount Keycap 1.00u")
     (tags "Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u")
     (property "Sheetfile" "keymatrix.kicad_sch")
@@ -1100,7 +1100,7 @@
 
   (footprint "Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u" (layer "F.Cu")
     (tedit 0) (tstamp 4254f860-acef-477e-8ab4-f7ea77a6cffc)
-    (at 261.9375 209.55)
+    (at 280.9875 177.8)
     (descr "Cherry MX keyswitch PCB Mount Keycap 1.00u")
     (tags "Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u")
     (property "Sheetfile" "keymatrix.kicad_sch")
@@ -1155,7 +1155,7 @@
 
   (footprint "Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u" (layer "F.Cu")
     (tedit 0) (tstamp 438a9279-9419-42e7-a569-ddc0b54200a3)
-    (at 223.8375 209.55)
+    (at 242.8875 177.8)
     (descr "Cherry MX keyswitch PCB Mount Keycap 1.00u")
     (tags "Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u")
     (property "Sheetfile" "keymatrix.kicad_sch")
@@ -1210,7 +1210,7 @@
 
   (footprint "Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u" (layer "F.Cu")
     (tedit 0) (tstamp 4939630a-2538-4d2d-bdcb-748ad02d392a)
-    (at 271.4625 152.4)
+    (at 290.5125 120.65)
     (descr "Cherry MX keyswitch PCB Mount Keycap 1.00u")
     (tags "Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u")
     (property "Sheetfile" "keymatrix.kicad_sch")
@@ -1265,7 +1265,7 @@
 
   (footprint "Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u" (layer "F.Cu")
     (tedit 0) (tstamp 500b0578-7948-429f-8029-7f85f6cd198c)
-    (at 76.2 171.45)
+    (at 95.25 139.7)
     (descr "Cherry MX keyswitch PCB Mount Keycap 1.00u")
     (tags "Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u")
     (property "Sheetfile" "keymatrix.kicad_sch")
@@ -1320,7 +1320,7 @@
 
   (footprint "Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u" (layer "F.Cu")
     (tedit 0) (tstamp 51b921ea-ca11-45f6-9feb-0845a483f9e6)
-    (at 333.375 190.5)
+    (at 352.425 158.75)
     (descr "Cherry MX keyswitch PCB Mount Keycap 1.00u")
     (tags "Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u")
     (property "Sheetfile" "keymatrix.kicad_sch")
@@ -1375,7 +1375,7 @@
 
   (footprint "Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.50u" (layer "F.Cu")
     (tedit 0) (tstamp 5584fc3f-86ce-4e6e-a069-e4111e6e238c)
-    (at 76.2 228.6)
+    (at 95.25 196.85)
     (descr "Cherry MX keyswitch PCB Mount Keycap 1.50u")
     (tags "Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.50u")
     (property "Sheetfile" "keymatrix.kicad_sch")
@@ -1430,7 +1430,7 @@
 
   (footprint "Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u" (layer "F.Cu")
     (tedit 0) (tstamp 5806e4ad-597d-48ea-9a55-384739d12032)
-    (at 157.1625 228.6)
+    (at 176.2125 196.85)
     (descr "Cherry MX keyswitch PCB Mount Keycap 1.00u")
     (tags "Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u")
     (property "Sheetfile" "keymatrix.kicad_sch")
@@ -1485,7 +1485,7 @@
 
   (footprint "Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u" (layer "F.Cu")
     (tedit 0) (tstamp 59d00e60-899f-455d-8548-46c1d49dfc3c)
-    (at 138.1125 152.4)
+    (at 157.1625 120.65)
     (descr "Cherry MX keyswitch PCB Mount Keycap 1.00u")
     (tags "Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u")
     (property "Sheetfile" "keymatrix.kicad_sch")
@@ -1540,7 +1540,7 @@
 
   (footprint "Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u" (layer "F.Cu")
     (tedit 0) (tstamp 5ab860f3-642c-4883-94dc-467914665bca)
-    (at 195.2625 228.6)
+    (at 214.3125 196.85)
     (descr "Cherry MX keyswitch PCB Mount Keycap 1.00u")
     (tags "Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u")
     (property "Sheetfile" "keymatrix.kicad_sch")
@@ -1595,7 +1595,7 @@
 
   (footprint "Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u" (layer "F.Cu")
     (tedit 0) (tstamp 5b31368b-a8f2-4115-b006-b361c0dbba30)
-    (at 147.6375 209.55)
+    (at 166.6875 177.8)
     (descr "Cherry MX keyswitch PCB Mount Keycap 1.00u")
     (tags "Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u")
     (property "Sheetfile" "keymatrix.kicad_sch")
@@ -1650,7 +1650,7 @@
 
   (footprint "Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u" (layer "F.Cu")
     (tedit 0) (tstamp 63d35d79-5903-46a5-b0cc-b8535555381d)
-    (at 228.6 171.45)
+    (at 247.65 139.7)
     (descr "Cherry MX keyswitch PCB Mount Keycap 1.00u")
     (tags "Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u")
     (property "Sheetfile" "keymatrix.kicad_sch")
@@ -1705,7 +1705,7 @@
 
   (footprint "Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u" (layer "F.Cu")
     (tedit 0) (tstamp 655818fc-f55b-4a9a-ad47-997ebc704ecd)
-    (at 214.3125 152.4)
+    (at 233.3625 120.65)
     (descr "Cherry MX keyswitch PCB Mount Keycap 1.00u")
     (tags "Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u")
     (property "Sheetfile" "keymatrix.kicad_sch")
@@ -1760,7 +1760,7 @@
 
   (footprint "Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u" (layer "F.Cu")
     (tedit 0) (tstamp 66474730-6b00-48e3-acb9-7f31f95db043)
-    (at 114.3 171.45)
+    (at 133.35 139.7)
     (descr "Cherry MX keyswitch PCB Mount Keycap 1.00u")
     (tags "Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u")
     (property "Sheetfile" "keymatrix.kicad_sch")
@@ -1815,7 +1815,7 @@
 
   (footprint "Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u" (layer "F.Cu")
     (tedit 0) (tstamp 68a29083-1045-4359-bd67-13e09bc94c8e)
-    (at 142.875 190.5)
+    (at 161.925 158.75)
     (descr "Cherry MX keyswitch PCB Mount Keycap 1.00u")
     (tags "Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u")
     (property "Sheetfile" "keymatrix.kicad_sch")
@@ -1870,7 +1870,7 @@
 
   (footprint "Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u" (layer "F.Cu")
     (tedit 0) (tstamp 6c4e0fc5-2b8e-4c2b-a8eb-b023b77b51f9)
-    (at 304.8 171.45)
+    (at 323.85 139.7)
     (descr "Cherry MX keyswitch PCB Mount Keycap 1.00u")
     (tags "Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u")
     (property "Sheetfile" "keymatrix.kicad_sch")
@@ -1925,7 +1925,7 @@
 
   (footprint "Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u" (layer "F.Cu")
     (tedit 0) (tstamp 6e5525c5-5d1b-449d-9115-225b67f3c6a6)
-    (at 104.775 190.5)
+    (at 123.825 158.75)
     (descr "Cherry MX keyswitch PCB Mount Keycap 1.00u")
     (tags "Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u")
     (property "Sheetfile" "keymatrix.kicad_sch")
@@ -1980,7 +1980,7 @@
 
   (footprint "Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u" (layer "F.Cu")
     (tedit 0) (tstamp 71e26ccc-d98c-43a1-be40-9c0e5e8b0a2e)
-    (at 319.0875 228.6)
+    (at 338.1375 196.85)
     (descr "Cherry MX keyswitch PCB Mount Keycap 1.00u")
     (tags "Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u")
     (property "Sheetfile" "keymatrix.kicad_sch")
@@ -2035,7 +2035,7 @@
 
   (footprint "Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u" (layer "F.Cu")
     (tedit 0) (tstamp 740c40de-6b0e-4175-9200-07bd56225697)
-    (at 109.5375 209.55)
+    (at 128.5875 177.8)
     (descr "Cherry MX keyswitch PCB Mount Keycap 1.00u")
     (tags "Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u")
     (property "Sheetfile" "keymatrix.kicad_sch")
@@ -2090,7 +2090,7 @@
 
   (footprint "Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u" (layer "F.Cu")
     (tedit 0) (tstamp 754eefb0-5d1a-452f-a692-d22c47284c1d)
-    (at 52.3875 228.6)
+    (at 71.4375 196.85)
     (descr "Cherry MX keyswitch PCB Mount Keycap 1.00u")
     (tags "Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u")
     (property "Sheetfile" "keymatrix.kicad_sch")
@@ -2145,7 +2145,7 @@
 
   (footprint "Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u" (layer "F.Cu")
     (tedit 0) (tstamp 76239d9c-37eb-4dc4-be85-17ca5a038e27)
-    (at 314.325 190.5)
+    (at 333.375 158.75)
     (descr "Cherry MX keyswitch PCB Mount Keycap 1.00u")
     (tags "Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u")
     (property "Sheetfile" "keymatrix.kicad_sch")
@@ -2200,7 +2200,7 @@
 
   (footprint "Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u" (layer "F.Cu")
     (tedit 0) (tstamp 77d12c81-f6c1-46b2-be64-7dcd585a834c)
-    (at 180.975 190.5)
+    (at 200.025 158.75)
     (descr "Cherry MX keyswitch PCB Mount Keycap 1.00u")
     (tags "Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u")
     (property "Sheetfile" "keymatrix.kicad_sch")
@@ -2255,7 +2255,7 @@
 
   (footprint "Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u" (layer "F.Cu")
     (tedit 0) (tstamp 79534247-4e52-409b-a905-beea0c3c322c)
-    (at 338.1375 228.6)
+    (at 357.1875 196.85)
     (descr "Cherry MX keyswitch PCB Mount Keycap 1.00u")
     (tags "Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u")
     (property "Sheetfile" "keymatrix.kicad_sch")
@@ -2310,7 +2310,7 @@
 
   (footprint "Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u" (layer "F.Cu")
     (tedit 0) (tstamp 7bee3c35-467f-498e-8ede-508ee6260131)
-    (at 133.35 171.45)
+    (at 152.4 139.7)
     (descr "Cherry MX keyswitch PCB Mount Keycap 1.00u")
     (tags "Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u")
     (property "Sheetfile" "keymatrix.kicad_sch")
@@ -2365,7 +2365,7 @@
 
   (footprint "Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u" (layer "F.Cu")
     (tedit 0) (tstamp 7e7ac524-e2d9-4904-9d9a-f7e100558ae6)
-    (at 57.15 171.45)
+    (at 76.2 139.7)
     (descr "Cherry MX keyswitch PCB Mount Keycap 1.00u")
     (tags "Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u")
     (property "Sheetfile" "keymatrix.kicad_sch")
@@ -2420,7 +2420,7 @@
 
   (footprint "Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u" (layer "F.Cu")
     (tedit 0) (tstamp 81c725b0-dd72-4341-95f8-1ff1fa73e70c)
-    (at 161.925 190.5)
+    (at 180.975 158.75)
     (descr "Cherry MX keyswitch PCB Mount Keycap 1.00u")
     (tags "Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u")
     (property "Sheetfile" "keymatrix.kicad_sch")
@@ -2475,7 +2475,7 @@
 
   (footprint "Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u" (layer "F.Cu")
     (tedit 0) (tstamp 860b36cf-1d08-411e-94b1-8da019ab7beb)
-    (at 352.425 190.5)
+    (at 371.475 158.75)
     (descr "Cherry MX keyswitch PCB Mount Keycap 1.00u")
     (tags "Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u")
     (property "Sheetfile" "keymatrix.kicad_sch")
@@ -2530,7 +2530,7 @@
 
   (footprint "Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u" (layer "F.Cu")
     (tedit 0) (tstamp 8633c34d-f139-4245-976c-0c5b00a80f2d)
-    (at 185.7375 209.55)
+    (at 204.7875 177.8)
     (descr "Cherry MX keyswitch PCB Mount Keycap 1.00u")
     (tags "Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u")
     (property "Sheetfile" "keymatrix.kicad_sch")
@@ -2585,7 +2585,7 @@
 
   (footprint "Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u" (layer "F.Cu")
     (tedit 0) (tstamp 8ba8a472-cd17-447c-b011-b3ecb830e5db)
-    (at 257.175 190.5)
+    (at 276.225 158.75)
     (descr "Cherry MX keyswitch PCB Mount Keycap 1.00u")
     (tags "Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u")
     (property "Sheetfile" "keymatrix.kicad_sch")
@@ -2640,7 +2640,7 @@
 
   (footprint "Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u" (layer "F.Cu")
     (tedit 0) (tstamp 90252b30-1c4f-4dde-b94b-b3fd2eb31b47)
-    (at 157.1625 152.4)
+    (at 176.2125 120.65)
     (descr "Cherry MX keyswitch PCB Mount Keycap 1.00u")
     (tags "Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u")
     (property "Sheetfile" "keymatrix.kicad_sch")
@@ -2695,7 +2695,7 @@
 
   (footprint "Resistor_THT:R_Array_SIP9" (layer "F.Cu")
     (tedit 5A14249F) (tstamp 939aee95-07ab-4350-befa-3d20cb22ae81)
-    (at 199.375 133.35)
+    (at 218.425 101.6)
     (descr "9-pin Resistor SIP pack")
     (tags "R")
     (property "Sheetfile" "muxdemux.kicad_sch")
@@ -2755,7 +2755,7 @@
 
   (footprint "Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u" (layer "F.Cu")
     (tedit 0) (tstamp 99c64ccf-5d2e-4eb2-b8ca-de071bc28521)
-    (at 119.0625 152.4)
+    (at 138.1125 120.65)
     (descr "Cherry MX keyswitch PCB Mount Keycap 1.00u")
     (tags "Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u")
     (property "Sheetfile" "keymatrix.kicad_sch")
@@ -2810,7 +2810,7 @@
 
   (footprint "Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u" (layer "F.Cu")
     (tedit 0) (tstamp 9a371098-8289-4749-8904-2a2439888c3e)
-    (at 219.075 190.5)
+    (at 238.125 158.75)
     (descr "Cherry MX keyswitch PCB Mount Keycap 1.00u")
     (tags "Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u")
     (property "Sheetfile" "keymatrix.kicad_sch")
@@ -2865,7 +2865,7 @@
 
   (footprint "Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u" (layer "F.Cu")
     (tedit 0) (tstamp 9ab6df53-2dd5-443d-a644-8421ac77f3c4)
-    (at 100.0125 228.6)
+    (at 119.0625 196.85)
     (descr "Cherry MX keyswitch PCB Mount Keycap 1.00u")
     (tags "Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u")
     (property "Sheetfile" "keymatrix.kicad_sch")
@@ -2920,7 +2920,7 @@
 
   (footprint "Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u" (layer "F.Cu")
     (tedit 0) (tstamp 9acf38e6-c152-473b-94bb-5cbee6160cd8)
-    (at 128.5875 209.55)
+    (at 147.6375 177.8)
     (descr "Cherry MX keyswitch PCB Mount Keycap 1.00u")
     (tags "Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u")
     (property "Sheetfile" "keymatrix.kicad_sch")
@@ -2975,7 +2975,7 @@
 
   (footprint "Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u" (layer "F.Cu")
     (tedit 0) (tstamp a09a3a40-d9a6-4723-afb5-a6a674a5c1e3)
-    (at 233.3625 152.4)
+    (at 252.4125 120.65)
     (descr "Cherry MX keyswitch PCB Mount Keycap 1.00u")
     (tags "Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u")
     (property "Sheetfile" "keymatrix.kicad_sch")
@@ -3030,7 +3030,7 @@
 
   (footprint "Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u" (layer "F.Cu")
     (tedit 0) (tstamp a1dd7924-2301-4a1e-a4a3-7062fce7a9be)
-    (at 166.6875 209.55)
+    (at 185.7375 177.8)
     (descr "Cherry MX keyswitch PCB Mount Keycap 1.00u")
     (tags "Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u")
     (property "Sheetfile" "keymatrix.kicad_sch")
@@ -3085,7 +3085,7 @@
 
   (footprint "Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u" (layer "F.Cu")
     (tedit 0) (tstamp a4c5d1d6-7b0b-4bc4-8eee-b86b8536a77e)
-    (at 209.55 171.45)
+    (at 228.6 139.7)
     (descr "Cherry MX keyswitch PCB Mount Keycap 1.00u")
     (tags "Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u")
     (property "Sheetfile" "keymatrix.kicad_sch")
@@ -3140,7 +3140,7 @@
 
   (footprint "Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u" (layer "F.Cu")
     (tedit 0) (tstamp a842fdad-b291-4623-b3ec-22e3dfa43dc5)
-    (at 285.75 171.45)
+    (at 304.8 139.7)
     (descr "Cherry MX keyswitch PCB Mount Keycap 1.00u")
     (tags "Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u")
     (property "Sheetfile" "keymatrix.kicad_sch")
@@ -3195,7 +3195,7 @@
 
   (footprint "Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u" (layer "F.Cu")
     (tedit 0) (tstamp a8525964-3656-4526-b02d-f3d479fa952f)
-    (at 71.4375 209.55)
+    (at 90.4875 177.8)
     (descr "Cherry MX keyswitch PCB Mount Keycap 1.00u")
     (tags "Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u")
     (property "Sheetfile" "keymatrix.kicad_sch")
@@ -3250,7 +3250,7 @@
 
   (footprint "Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u" (layer "F.Cu")
     (tedit 0) (tstamp a8a02860-6dd7-467f-a667-194ad437a5c6)
-    (at 100.0125 152.4)
+    (at 119.0625 120.65)
     (descr "Cherry MX keyswitch PCB Mount Keycap 1.00u")
     (tags "Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u")
     (property "Sheetfile" "keymatrix.kicad_sch")
@@ -3305,7 +3305,7 @@
 
   (footprint "Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u" (layer "F.Cu")
     (tedit 0) (tstamp b1b1fe71-7b1d-44e7-963f-653fe70662c9)
-    (at 233.3625 228.6)
+    (at 252.4125 196.85)
     (descr "Cherry MX keyswitch PCB Mount Keycap 1.00u")
     (tags "Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u")
     (property "Sheetfile" "keymatrix.kicad_sch")
@@ -3360,7 +3360,7 @@
 
   (footprint "Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u" (layer "F.Cu")
     (tedit 0) (tstamp b58b5ab2-e36c-43d8-b867-1aacf436382c)
-    (at 342.9 171.45)
+    (at 361.95 139.7)
     (descr "Cherry MX keyswitch PCB Mount Keycap 1.00u")
     (tags "Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u")
     (property "Sheetfile" "keymatrix.kicad_sch")
@@ -3415,7 +3415,7 @@
 
   (footprint "Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u" (layer "F.Cu")
     (tedit 0) (tstamp b5a619a6-3ba3-46cc-bfc9-0d9df5b56fcc)
-    (at 271.4625 228.6)
+    (at 290.5125 196.85)
     (descr "Cherry MX keyswitch PCB Mount Keycap 1.00u")
     (tags "Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u")
     (property "Sheetfile" "keymatrix.kicad_sch")
@@ -3470,7 +3470,7 @@
 
   (footprint "Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u" (layer "F.Cu")
     (tedit 0) (tstamp c1da6b7e-c71c-4cb8-a2ab-6a024a34d724)
-    (at 295.275 190.5)
+    (at 314.325 158.75)
     (descr "Cherry MX keyswitch PCB Mount Keycap 1.00u")
     (tags "Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u")
     (property "Sheetfile" "keymatrix.kicad_sch")
@@ -3525,7 +3525,7 @@
 
   (footprint "Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u" (layer "F.Cu")
     (tedit 0) (tstamp c706f8c7-1f8f-43a4-a0be-7bfaedf7a3e9)
-    (at 252.4125 152.4)
+    (at 271.4625 120.65)
     (descr "Cherry MX keyswitch PCB Mount Keycap 1.00u")
     (tags "Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u")
     (property "Sheetfile" "keymatrix.kicad_sch")
@@ -3580,7 +3580,7 @@
 
   (footprint "Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u" (layer "F.Cu")
     (tedit 0) (tstamp c939fe4f-f3a0-481d-b9ee-8af06b4fa754)
-    (at 190.5 171.45)
+    (at 209.55 139.7)
     (descr "Cherry MX keyswitch PCB Mount Keycap 1.00u")
     (tags "Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u")
     (property "Sheetfile" "keymatrix.kicad_sch")
@@ -3635,7 +3635,7 @@
 
   (footprint "Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u" (layer "F.Cu")
     (tedit 0) (tstamp cae43d65-3111-46de-bf39-b1e779a54af2)
-    (at 252.4125 228.6)
+    (at 271.4625 196.85)
     (descr "Cherry MX keyswitch PCB Mount Keycap 1.00u")
     (tags "Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u")
     (property "Sheetfile" "keymatrix.kicad_sch")
@@ -3690,7 +3690,7 @@
 
   (footprint "Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u" (layer "F.Cu")
     (tedit 0) (tstamp cc7cc8c6-10f6-4faf-a774-f01e78f90da3)
-    (at 247.65 171.45)
+    (at 266.7 139.7)
     (descr "Cherry MX keyswitch PCB Mount Keycap 1.00u")
     (tags "Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u")
     (property "Sheetfile" "keymatrix.kicad_sch")
@@ -3745,7 +3745,7 @@
 
   (footprint "Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.50u" (layer "F.Cu")
     (tedit 0) (tstamp cfda8ac4-8304-4051-ab67-e8330a29d274)
-    (at 295.275 228.6)
+    (at 314.325 196.85)
     (descr "Cherry MX keyswitch PCB Mount Keycap 1.50u")
     (tags "Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.50u")
     (property "Sheetfile" "keymatrix.kicad_sch")
@@ -3800,7 +3800,7 @@
 
   (footprint "Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u" (layer "F.Cu")
     (tedit 0) (tstamp d6f32e25-1ae8-48a6-88e2-8b0cb08e5da2)
-    (at 276.225 190.5)
+    (at 295.275 158.75)
     (descr "Cherry MX keyswitch PCB Mount Keycap 1.00u")
     (tags "Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u")
     (property "Sheetfile" "keymatrix.kicad_sch")
@@ -3855,7 +3855,7 @@
 
   (footprint "Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u" (layer "F.Cu")
     (tedit 0) (tstamp daceca11-79be-44b9-b2fd-b8ab93cc8831)
-    (at 123.825 190.5)
+    (at 142.875 158.75)
     (descr "Cherry MX keyswitch PCB Mount Keycap 1.00u")
     (tags "Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u")
     (property "Sheetfile" "keymatrix.kicad_sch")
@@ -3910,7 +3910,7 @@
 
   (footprint "Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u" (layer "F.Cu")
     (tedit 0) (tstamp dafca877-4b30-465e-9de5-184a644c44eb)
-    (at 323.85 171.45)
+    (at 342.9 139.7)
     (descr "Cherry MX keyswitch PCB Mount Keycap 1.00u")
     (tags "Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u")
     (property "Sheetfile" "keymatrix.kicad_sch")
@@ -3965,7 +3965,7 @@
 
   (footprint "Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u" (layer "F.Cu")
     (tedit 0) (tstamp db1436be-064c-4630-9622-2072e7d982c3)
-    (at 95.25 171.45)
+    (at 114.3 139.7)
     (descr "Cherry MX keyswitch PCB Mount Keycap 1.00u")
     (tags "Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u")
     (property "Sheetfile" "keymatrix.kicad_sch")
@@ -4020,7 +4020,7 @@
 
   (footprint "Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u" (layer "F.Cu")
     (tedit 0) (tstamp de17b230-6340-45d2-a642-8f979f50aeb5)
-    (at 300.0375 209.55)
+    (at 319.0875 177.8)
     (descr "Cherry MX keyswitch PCB Mount Keycap 1.00u")
     (tags "Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u")
     (property "Sheetfile" "keymatrix.kicad_sch")
@@ -4075,7 +4075,7 @@
 
   (footprint "Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u" (layer "F.Cu")
     (tedit 0) (tstamp de32c37b-2959-4af9-8bf6-2443a0e354bb)
-    (at 152.4 171.45)
+    (at 171.45 139.7)
     (descr "Cherry MX keyswitch PCB Mount Keycap 1.00u")
     (tags "Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u")
     (property "Sheetfile" "keymatrix.kicad_sch")
@@ -4130,7 +4130,7 @@
 
   (footprint "Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_2.00u" (layer "F.Cu")
     (tedit 0) (tstamp e245b3c8-8bc8-4378-96d2-cc2145d59774)
-    (at 328.6125 209.55)
+    (at 347.6625 177.8)
     (descr "Cherry MX keyswitch PCB Mount Keycap 2.00u")
     (tags "Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 2.00u")
     (property "Sheetfile" "keymatrix.kicad_sch")
@@ -4185,7 +4185,7 @@
 
   (footprint "Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u" (layer "F.Cu")
     (tedit 0) (tstamp ecb15219-82d6-4fd0-9ab9-0488a69a89b8)
-    (at 176.2125 228.6)
+    (at 195.2625 196.85)
     (descr "Cherry MX keyswitch PCB Mount Keycap 1.00u")
     (tags "Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u")
     (property "Sheetfile" "keymatrix.kicad_sch")
@@ -4238,15 +4238,28 @@
     )
   )
 
-  (gr_line (start 349.5675 226.06) (end 349.5675 245.11) (layer "Dwgs.User") (width 0.15) (tstamp 02b48418-4ce4-411f-8bf3-220969ba733d))
-  (gr_line (start 293.6875 264.16) (end 39.6875 264.16) (layer "Dwgs.User") (width 0.15) (tstamp 05379388-28a8-446e-a428-58e4a75b4be5))
-  (gr_line (start 349.5675 245.11) (end 293.6875 245.11) (layer "Dwgs.User") (width 0.15) (tstamp 0aa5d6a8-80db-4c33-b8d5-c68a1b7c0446))
-  (gr_line (start 39.6875 158.75) (end 77.7875 158.75) (layer "Dwgs.User") (width 0.15) (tstamp 128044f7-7cf2-43a1-abcb-40fe99097e2e))
-  (gr_line (start 77.7875 158.75) (end 77.7875 139.7) (layer "Dwgs.User") (width 0.15) (tstamp 18597b15-1dd1-4184-91b8-164094962aca))
-  (gr_line (start 364.8075 226.06) (end 349.5675 226.06) (layer "Dwgs.User") (width 0.15) (tstamp 1fb6ba87-59bd-48b4-ac1d-449145497a0c))
-  (gr_line (start 293.6875 245.11) (end 293.6875 264.16) (layer "Dwgs.User") (width 0.15) (tstamp 54134cb1-59c5-4e8e-b97a-b2fe1a5a11fc))
-  (gr_line (start 77.7875 139.7) (end 364.8075 139.7) (layer "Dwgs.User") (width 0.15) (tstamp 721ffe38-a74a-4844-995f-b64029cb5230))
-  (gr_line (start 364.8075 139.7) (end 364.8075 226.06) (layer "Dwgs.User") (width 0.15) (tstamp ce91cc84-52e8-4d1d-a3d5-e1692e786792))
-  (gr_line (start 39.6875 264.16) (end 39.6875 158.75) (layer "Dwgs.User") (width 0.15) (tstamp e8fd1a82-a445-404a-96c7-1605c50be256))
+  (gr_line (start 20.6375 199.39) (end 15.5575 199.39) (layer "Dwgs.User") (width 0.15) (tstamp 0178c68a-a2a7-4872-8d2e-16909b3f50e5))
+  (gr_line (start 368.6175 191.77) (end 368.6175 213.36) (layer "Dwgs.User") (width 0.15) (tstamp 02b48418-4ce4-411f-8bf3-220969ba733d))
+  (gr_line (start 312.7375 232.41) (end 58.7375 232.41) (layer "Dwgs.User") (width 0.15) (tstamp 05379388-28a8-446e-a428-58e4a75b4be5))
+  (gr_line (start 368.6175 213.36) (end 312.7375 213.36) (layer "Dwgs.User") (width 0.15) (tstamp 0aa5d6a8-80db-4c33-b8d5-c68a1b7c0446))
+  (gr_line (start 58.7375 127) (end 96.8375 127) (layer "Dwgs.User") (width 0.15) (tstamp 128044f7-7cf2-43a1-abcb-40fe99097e2e))
+  (gr_line (start 96.8375 127) (end 96.8375 107.95) (layer "Dwgs.User") (width 0.15) (tstamp 18597b15-1dd1-4184-91b8-164094962aca))
+  (gr_line (start 396.5575 232.41) (end 312.7375 232.41) (layer "Dwgs.User") (width 0.15) (tstamp 18938e03-9395-4f3d-aa04-2fd460c44a5b))
+  (gr_line (start 383.8575 191.77) (end 368.6175 191.77) (layer "Dwgs.User") (width 0.15) (tstamp 1fb6ba87-59bd-48b4-ac1d-449145497a0c))
+  (gr_line (start 15.5575 201.93) (end 20.6375 201.93) (layer "Dwgs.User") (width 0.15) (tstamp 3ec8175c-269a-436a-b900-09a8f243c46f))
+  (gr_line (start 58.7375 232.41) (end 15.5575 232.41) (layer "Dwgs.User") (width 0.15) (tstamp 40b49b8b-bed4-4c51-b507-691ed1c7491a))
+  (gr_line (start 20.6375 201.93) (end 20.6375 199.39) (layer "Dwgs.User") (width 0.15) (tstamp 47449829-7dfe-491f-936b-71806aba46c2))
+  (gr_line (start 312.7375 213.36) (end 312.7375 232.41) (layer "Dwgs.User") (width 0.15) (tstamp 54134cb1-59c5-4e8e-b97a-b2fe1a5a11fc))
+  (gr_line (start 391.4775 201.93) (end 391.4775 199.39) (layer "Dwgs.User") (width 0.15) (tstamp 6b50b7a5-c52b-403b-9cc3-b85cb13638e4))
+  (gr_line (start 96.8375 107.95) (end 383.8575 107.95) (layer "Dwgs.User") (width 0.15) (tstamp 721ffe38-a74a-4844-995f-b64029cb5230))
+  (gr_line (start 15.5575 82.55) (end 396.5575 82.55) (layer "Dwgs.User") (width 0.15) (tstamp 7482156c-7e06-45ac-ae1b-d0e8d472eefe))
+  (gr_line (start 396.5575 201.93) (end 391.4775 201.93) (layer "Dwgs.User") (width 0.15) (tstamp 8e86add9-fb34-4b17-a3f1-c3e1b97592c3))
+  (gr_circle (center 33.3375 200.66) (end 39.6875 200.66) (layer "Dwgs.User") (width 0.15) (fill none) (tstamp a0a89fcf-1df4-4258-bcad-61b9855c2dbd))
+  (gr_circle (center 378.7775 200.66) (end 385.1275 200.66) (layer "Dwgs.User") (width 0.15) (fill none) (tstamp bd9d0f80-f1e8-4166-9124-24af99d31c71))
+  (gr_line (start 383.8575 107.95) (end 383.8575 191.77) (layer "Dwgs.User") (width 0.15) (tstamp ce91cc84-52e8-4d1d-a3d5-e1692e786792))
+  (gr_line (start 15.5575 232.41) (end 15.5575 82.55) (layer "Dwgs.User") (width 0.15) (tstamp dbb55abf-6eea-47dc-bf76-3e3f06a9a33d))
+  (gr_line (start 58.7375 232.41) (end 58.7375 127) (layer "Dwgs.User") (width 0.15) (tstamp e8fd1a82-a445-404a-96c7-1605c50be256))
+  (gr_line (start 391.4775 199.39) (end 396.5575 199.39) (layer "Dwgs.User") (width 0.15) (tstamp f3b266ae-c86a-4cb9-b746-7ef527de17f8))
+  (gr_line (start 396.5575 82.55) (end 396.5575 232.41) (layer "Dwgs.User") (width 0.15) (tstamp fdff98e2-97ff-4590-99e0-5d46639b07ee))
 
 )
