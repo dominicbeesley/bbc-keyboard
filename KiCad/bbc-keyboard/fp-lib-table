@@ -1,4 +1,5 @@
 (fp_lib_table
   (lib (name "Switch_Keyboard_Cherry_MX")(type "KiCad")(uri "${KICAD6_3RD_PARTY}/footprints/com_github_perigoso_keyswitch-kicad-library/Switch_Keyboard_Cherry_MX.pretty")(options "")(descr ""))
   (lib (name "SpecialConnectors")(type "KiCad")(uri "C:/Users/Dominic/Documents/GitHub/bbc-keyboard/KiCad/library/SpecialConnectors.pretty")(options "")(descr ""))
+  (lib (name "Mounting_Keyboard_Stabilizer")(type "KiCad")(uri "${KICAD6_3RD_PARTY}/footprints/com_github_perigoso_keyswitch-kicad-library/Mounting_Keyboard_Stabilizer.pretty")(options "")(descr ""))
 )
