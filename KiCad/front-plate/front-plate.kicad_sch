@@ -808,7 +808,7 @@
     (property "Value" "keys" (id 1) (at 60.96 36.1949 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Holes:Cherry_MX_panel_cutout" (id 2) (at 58.42 34.925 0)
+    (property "Footprint" "Holes:Cherry_MX_panel_cutout_spacebar" (id 2) (at 58.42 34.925 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 58.42 34.925 0)
@@ -1308,7 +1308,7 @@
     (property "Value" "keys" (id 1) (at 114.3 46.3549 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Holes:Cherry_MX_panel_cutout" (id 2) (at 111.76 45.085 0)
+    (property "Footprint" "Holes:Cherry_MX_panel_cutout_2u" (id 2) (at 111.76 45.085 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 111.76 45.085 0)
@@ -1809,7 +1809,7 @@
       (reference "SW20") (unit 1) (value "keys") (footprint "Holes:Cherry_MX_panel_cutout")
     )
     (path "/58dc21b6-1eac-4947-8c22-4f445a996cf7"
-      (reference "SW21") (unit 1) (value "keys") (footprint "Holes:Cherry_MX_panel_cutout")
+      (reference "SW21") (unit 1) (value "keys") (footprint "Holes:Cherry_MX_panel_cutout_spacebar")
     )
     (path "/a0f519b5-1e92-4d42-a692-38825839f615"
       (reference "SW22") (unit 1) (value "keys") (footprint "Holes:Cherry_MX_panel_cutout")
@@ -1950,7 +1950,7 @@
       (reference "SW67") (unit 1) (value "keys") (footprint "Holes:Cherry_MX_panel_cutout")
     )
     (path "/bd4939d4-97e7-4bb4-b797-ac7a4c701563"
-      (reference "SW68") (unit 1) (value "keys") (footprint "Holes:Cherry_MX_panel_cutout")
+      (reference "SW68") (unit 1) (value "keys") (footprint "Holes:Cherry_MX_panel_cutout_2u")
     )
     (path "/14a6ec4d-b612-4c09-bc40-e2ee75de0d4a"
       (reference "SW69") (unit 1) (value "keys") (footprint "Holes:Cherry_MX_panel_cutout")
