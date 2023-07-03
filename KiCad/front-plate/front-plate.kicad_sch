@@ -650,23 +650,6 @@
     )
   )
 
-  (symbol (lib_id "Mechanical:MountingHole") (at 121.92 50.165 0) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
-    (uuid 3c8d15bc-1c4f-47d2-a610-ce614a142954)
-    (property "Reference" "SW74" (id 0) (at 124.46 48.8949 0)
-      (effects (font (size 1.27 1.27)) (justify left))
-    )
-    (property "Value" "keys" (id 1) (at 124.46 51.4349 0)
-      (effects (font (size 1.27 1.27)) (justify left))
-    )
-    (property "Footprint" "Holes:Cherry_MX_panel_cutout" (id 2) (at 121.92 50.165 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "~" (id 3) (at 121.92 50.165 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-  )
-
   (symbol (lib_id "Mechanical:MountingHole") (at 48.26 34.925 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 40a9f87a-eda5-4c24-b6ff-0b92cf298a1d)
@@ -1923,9 +1906,6 @@
     )
     (path "/ea4eaab1-3413-49d4-b88c-32e5ba643360"
       (reference "SW73") (unit 1) (value "keys") (footprint "Holes:Cherry_MX_panel_cutout")
-    )
-    (path "/3c8d15bc-1c4f-47d2-a610-ce614a142954"
-      (reference "SW74") (unit 1) (value "keys") (footprint "Holes:Cherry_MX_panel_cutout")
     )
     (path "/5fa080aa-1380-49e9-91fd-900d5bf6e1fe"
       (reference "SW75") (unit 1) (value "keys") (footprint "Holes:Cherry_MX_panel_cutout")
