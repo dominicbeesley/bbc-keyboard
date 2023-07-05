@@ -92,7 +92,7 @@
       (mirror false)
       (drillshape 0)
       (scaleselection 1)
-      (outputdirectory "jlcpcb-20230704")
+      (outputdirectory "jlcpcb-20230705")
     )
   )
 
@@ -3297,6 +3297,9 @@
   (gr_arc (start 383.8575 189.23) (mid 383.113551 191.026051) (end 381.3175 191.77) (layer "Edge.Cuts") (width 0.1) (tstamp c7db381f-54d9-4b59-8d0f-9fdc931c99d6))
   (gr_arc (start 61.2775 232.41) (mid 59.481449 231.666051) (end 58.7375 229.87) (layer "Edge.Cuts") (width 0.1) (tstamp c7e4ed62-846f-4a65-bfa1-a91558e0e6bb))
   (gr_line (start 383.8575 189.23) (end 383.8575 110.49) (layer "Edge.Cuts") (width 0.1) (tstamp f2c6a50a-9fa8-4431-a63e-0e9d6e9897b2))
+  (gr_text "JLCJLCJLCJLC" (at 222.5675 208.28) (layer "F.SilkS") (tstamp 1029d158-9355-4223-8a16-b82c2aae17af)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
   (gr_text "6.25u, 7u, 8u PCB mount stabilizers not 6.5u\nFor 6.25, 6.5u, 7u, 8u spacebar use cutouts" (at 271.4625 263.525) (layer "Cmts.User") (tstamp 80536e1a-8c41-46f3-a6d2-3b076ffd54ea)
     (effects (font (size 1 1) (thickness 0.15)))
   )
