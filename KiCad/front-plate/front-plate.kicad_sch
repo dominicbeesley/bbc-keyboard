@@ -512,7 +512,7 @@
     (property "Value" "MountingHole" (id 1) (at 40.64 102.2349 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "MountingHole:MountingHole_4.3mm_M4" (id 2) (at 38.1 100.965 0)
+    (property "Footprint" "MountingHole:MountingHole_5.5mm" (id 2) (at 38.1 100.965 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 38.1 100.965 0)
@@ -1138,7 +1138,7 @@
     (property "Value" "MountingHole" (id 1) (at 40.64 96.5199 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "MountingHole:MountingHole_4.3mm_M4" (id 2) (at 38.1 95.25 0)
+    (property "Footprint" "MountingHole:MountingHole_5.5mm" (id 2) (at 38.1 95.25 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 38.1 95.25 0)
@@ -1557,7 +1557,7 @@
     (property "Value" "MountingHole" (id 1) (at 40.64 107.9499 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "MountingHole:MountingHole_4.3mm_M4" (id 2) (at 38.1 106.68 0)
+    (property "Footprint" "MountingHole:MountingHole_5.5mm" (id 2) (at 38.1 106.68 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 38.1 106.68 0)
@@ -1740,13 +1740,13 @@
       (reference "H16") (unit 1) (value "front") (footprint "MountingHole:MountingHole_3.2mm_M3_DIN965_Pad")
     )
     (path "/9e7878f6-1e16-4590-afde-f6dcdd89c22d"
-      (reference "LD1") (unit 1) (value "MountingHole") (footprint "MountingHole:MountingHole_4.3mm_M4")
+      (reference "LD1") (unit 1) (value "MountingHole") (footprint "MountingHole:MountingHole_5.5mm")
     )
     (path "/20c594cf-c458-424d-ac08-abc63f677989"
-      (reference "LD2") (unit 1) (value "MountingHole") (footprint "MountingHole:MountingHole_4.3mm_M4")
+      (reference "LD2") (unit 1) (value "MountingHole") (footprint "MountingHole:MountingHole_5.5mm")
     )
     (path "/eabfe1f6-e10f-4563-ae35-21fde4556042"
-      (reference "LD3") (unit 1) (value "MountingHole") (footprint "MountingHole:MountingHole_4.3mm_M4")
+      (reference "LD3") (unit 1) (value "MountingHole") (footprint "MountingHole:MountingHole_5.5mm")
     )
     (path "/6c900917-e55a-4fee-afd6-409929d528ac"
       (reference "SW1") (unit 1) (value "keys") (footprint "Holes:Cherry_MX_panel_cutout")
